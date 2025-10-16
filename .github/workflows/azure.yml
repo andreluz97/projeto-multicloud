@@ -28,4 +28,3 @@ jobs:
           app-name: projeto-multicloud
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
           package: .
-``
