@@ -1,4 +1,3 @@
-# Atualização para disparar deploy
 # Projeto Multicloud
 
 Este projeto demonstra uma aplicação web simples desenvolvida com **Flask** em **Python**, hospedada em ambientes multicloud: **Azure** e **AWS**.
